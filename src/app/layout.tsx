@@ -10,10 +10,8 @@ const BASE_URL = "https://tripleoutputdcpowersupply.com";
 // ✅ Full SEO metadata for the entire site
 export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),
-  title: {
-    template: "%s | Triple Output DC Power Supply",
-    default: "Triple Output DC Power Supply | Precision Lab Instruments",
-  },
+  title: "Triple Output DC Power Supply | Precision Lab Instruments",
+
   description:
     "Precision power solutions and expert insights for modern electronics labs, R&D professionals, and automated testing environments.",
   keywords: [

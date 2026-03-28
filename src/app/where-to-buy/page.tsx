@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/where-to-buy',
   },
-  title: 'Where to Buy',
+  title: 'Where to Buy | Triple Output DC Power Supply',
   // description: 'Individual description here...',
 };
 export default function Page() {

@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/privacy-policy',
   },
-  title: 'Privacy Policy',
+  title: 'Privacy Policy | Triple Output DC Power Supply',
   // description: 'Individual description here...',
 };
 export default function Page() {

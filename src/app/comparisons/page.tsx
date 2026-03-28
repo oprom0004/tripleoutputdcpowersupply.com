@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/comparisons',
   },
-  title: 'Compare Products',
+  title: 'Compare Triple Output DC Power Supplies',
   // description: 'Individual description here...',
 };
 export default function Page() {

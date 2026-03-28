@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/how-to-choose',
   },
-  title: 'How to Choose',
+  title: 'How to Choose a Triple Output DC Power Supply',
   // description: 'Individual description here...',
 };
 export default function Page() {

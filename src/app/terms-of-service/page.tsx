@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/terms-of-service',
   },
-  title: 'Terms of Service',
+  title: 'Terms of Service | Triple Output DC Power Supply',
   // description: 'Individual description here...',
 };
 export default function Page() {

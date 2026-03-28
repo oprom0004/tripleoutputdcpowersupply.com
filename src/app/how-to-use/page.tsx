@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/how-to-use',
   },
-  title: 'Tutorials & Guides',
+  title: 'How to Use a Triple Output DC Power Supply | Tutorials & Guides',
   // description: 'Individual description here...',
 };
 export default function Page() {

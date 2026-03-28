@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/pricing-guide',
   },
-  title: 'Pricing',
+  title: 'Triple Output DC Power Supply Pricing',
   // description: 'Individual description here...',
 };
 export default function Page() {

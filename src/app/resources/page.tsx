@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/resources',
   },
-  title: 'Resources & Downloads',
+  title: 'Triple Output DC Power Supply Resources, Glossary & Downloads',
   // description: 'Individual description here...',
 };
 export default function Page() {
