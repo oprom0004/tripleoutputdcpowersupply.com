@@ -3,7 +3,6 @@ import { PrivacyPolicy } from '@/components/pages/PrivacyPolicy';
 export const metadata: Metadata = {
   alternates: { canonical: '/privacy-policy' },
   openGraph: {
-    title: 'Triple Output DC Power Supply',
     url: '/privacy-policy',
   },
   title: 'Privacy Policy',

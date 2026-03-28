@@ -3,10 +3,9 @@ import HowToChoose from '@/components/pages/HowToChoose';
 export const metadata: Metadata = {
   alternates: { canonical: '/how-to-choose' },
   openGraph: {
-    title: 'Triple Output DC Power Supply',
     url: '/how-to-choose',
   },
-  title: 'How to Choose a Triple Output DC Power Supply',
+  title: 'How to Choose',
   // description: 'Individual description here...',
 };
 export default function Page() {

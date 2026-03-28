@@ -3,7 +3,6 @@ import WhereToBuy from '@/components/pages/WhereToBuy';
 export const metadata: Metadata = {
   alternates: { canonical: '/where-to-buy' },
   openGraph: {
-    title: 'Triple Output DC Power Supply',
     url: '/where-to-buy',
   },
   title: 'Where to Buy',

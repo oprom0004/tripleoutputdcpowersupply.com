@@ -3,7 +3,6 @@ import OpAmpTesting from '@/components/pages/OpAmpTesting';
 export const metadata: Metadata = {
   alternates: { canonical: '/applications/op-amp-testing' },
   openGraph: {
-    title: 'Triple Output DC Power Supply',
     url: '/applications/op-amp-testing',
   },
   title: 'Powering Operational Amplifiers',

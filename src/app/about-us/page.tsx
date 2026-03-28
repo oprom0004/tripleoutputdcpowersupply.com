@@ -3,7 +3,6 @@ import { AboutUs } from '@/components/pages/AboutUs';
 export const metadata: Metadata = {
   alternates: { canonical: '/about-us' },
   openGraph: {
-    title: 'Triple Output DC Power Supply',
     url: '/about-us',
   },
   title: 'About Us | Triple Output DC Power Supply Experts',

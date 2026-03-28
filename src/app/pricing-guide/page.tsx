@@ -3,10 +3,9 @@ import PricingGuide from '@/components/pages/PricingGuide';
 export const metadata: Metadata = {
   alternates: { canonical: '/pricing-guide' },
   openGraph: {
-    title: 'Triple Output DC Power Supply',
     url: '/pricing-guide',
   },
-  title: 'Triple Output DC Power Supply Pricing',
+  title: 'Pricing',
   // description: 'Individual description here...',
 };
 export default function Page() {

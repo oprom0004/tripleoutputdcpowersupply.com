@@ -3,10 +3,9 @@ import ComparisonsHub from '@/components/pages/ComparisonsHub';
 export const metadata: Metadata = {
   alternates: { canonical: '/comparisons' },
   openGraph: {
-    title: 'Triple Output DC Power Supply',
     url: '/comparisons',
   },
-  title: 'Compare Triple Output DC Power Supplies',
+  title: 'Compare Products',
   // description: 'Individual description here...',
 };
 export default function Page() {

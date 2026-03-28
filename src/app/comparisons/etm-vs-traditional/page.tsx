@@ -4,7 +4,6 @@ import { ArrowRight, CheckCircle2, XCircle, Zap, Shield, Cpu } from 'lucide-reac
 export const metadata: Metadata = {
   alternates: { canonical: '/comparisons/etm-vs-traditional' },
   openGraph: {
-    title: 'Triple Output DC Power Supply',
     url: '/comparisons/etm-vs-traditional',
   },
     title: 'Modern vs Traditional Triple Output Power Supply Brands | eTM vs Legacy',

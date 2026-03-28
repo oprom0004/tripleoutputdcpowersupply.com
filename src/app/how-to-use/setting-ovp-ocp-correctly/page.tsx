@@ -3,7 +3,6 @@ import OvpOcp from '@/components/pages/OvpOcp';
 export const metadata: Metadata = {
   alternates: { canonical: '/how-to-use/setting-ovp-ocp-correctly' },
   openGraph: {
-    title: 'Triple Output DC Power Supply',
     url: '/how-to-use/setting-ovp-ocp-correctly',
   },
   title: 'Setting OVP and OCP',

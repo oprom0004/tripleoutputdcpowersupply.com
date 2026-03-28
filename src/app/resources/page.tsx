@@ -3,10 +3,9 @@ import ResourcesHub from '@/components/pages/ResourcesHub';
 export const metadata: Metadata = {
   alternates: { canonical: '/resources' },
   openGraph: {
-    title: 'Triple Output DC Power Supply',
     url: '/resources',
   },
-  title: 'Triple Output DC Power Supply Resources, Glossary & Downloads',
+  title: 'Resources & Downloads',
   // description: 'Individual description here...',
 };
 export default function Page() {
