@@ -1,0 +1,9 @@
+import type { Metadata } from 'next';
+import HowToChoose from '@/components/pages/HowToChoose';
+export const metadata: Metadata = {
+  title: 'How to Choose a Triple Output DC Power Supply',
+  // description: 'Individual description here...',
+};
+export default function Page() {
+  return <HowToChoose />;
+}
