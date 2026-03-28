@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/applications/op-amp-testing',
   },
-  title: 'Powering Operational Amplifiers',
+  title: 'Triple Output DC Power Supply for Op-Amp & Bipolar Testing',
   // description: 'Individual description here...',
 };
 export default function Page() {

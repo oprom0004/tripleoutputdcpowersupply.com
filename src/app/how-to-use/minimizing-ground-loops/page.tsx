@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/how-to-use/minimizing-ground-loops',
   },
-  title: 'Minimizing Ground Loops',
+  title: 'Eliminate Ground Loops in 3-Channel Power Testing',
   // description: 'Individual description here...',
 };
 export default function Page() {

@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/resources/download-center',
   },
-  title: 'Download Center',
+  title: 'Download PC Software for Triple Output DC Power Supplies',
   // description: 'Individual description here...',
 };
 export default function Page() {

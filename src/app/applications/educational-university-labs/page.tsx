@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/applications/educational-university-labs',
   },
-  title: 'Educational Labs',
+  title: 'Precision Bench Power for University & Research Labs',
   // description: 'Individual description here...',
 };
 export default function Page() {

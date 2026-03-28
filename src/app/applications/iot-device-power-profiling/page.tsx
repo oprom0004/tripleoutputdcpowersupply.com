@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/applications/iot-device-power-profiling',
   },
-  title: 'IoT Device Power Profiling',
+  title: 'Precision IoT Power Profiling with Triple Output Supplies',
   // description: 'Individual description here...',
 };
 export default function Page() {

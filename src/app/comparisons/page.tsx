@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/comparisons',
   },
-  title: 'Compare Triple Output DC Power Supplies',
+  title: 'Compare Leading Triple Output DC Power Supply Top Picks',
   // description: 'Individual description here...',
 };
 export default function Page() {

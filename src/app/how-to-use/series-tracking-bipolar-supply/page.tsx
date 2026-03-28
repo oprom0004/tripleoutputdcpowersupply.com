@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/how-to-use/series-tracking-bipolar-supply',
   },
-  title: 'Series Tracking Mode',
+  title: 'Series Tracking: Dual ±V Rails on Triple Output Supplies',
   // description: 'Individual description here...',
 };
 export default function Page() {

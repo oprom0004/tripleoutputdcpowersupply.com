@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/how-to-use/parallel-mode-high-current',
   },
-  title: 'Parallel Tracking Mode',
+  title: 'Parallel Tracking: Max Current on Triple Output DC Supplies',
   // description: 'Individual description here...',
 };
 export default function Page() {

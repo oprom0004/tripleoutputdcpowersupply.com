@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/resources/glossary-power-supply-terms',
   },
-  title: 'Glossary of Terms',
+  title: 'Glossary of Triple Output DC Power Supply Technical Terms',
   // description: 'Individual description here...',
 };
 export default function Page() {

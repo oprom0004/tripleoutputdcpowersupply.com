@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/how-to-use/setting-ovp-ocp-correctly',
   },
-  title: 'Setting OVP and OCP',
+  title: 'Safe Operation: OVP & OCP on Triple Output DC Bench Power',
   // description: 'Individual description here...',
 };
 export default function Page() {

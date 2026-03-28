@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   openGraph: {
     url: '/applications/automotive-electronics',
   },
-  title: 'Automotive Electronics Testing (12V/24V)',
+  title: 'Automotive ECU Testing with Triple Output DC Bench Power',
   // description: 'Individual description here...',
 };
 export default function Page() {
