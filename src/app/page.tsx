@@ -6,7 +6,9 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Triple Output DC Power Supply',
     url: '/',
-  }, title: 'Programmable Triple Output DC Bench Power Supply', alternates: { canonical: '/' }, openGraph: { url: '/' } };
+  },
+  title: 'Programmable Triple Output DC Bench Power Supply'
+};
 import {
   Activity,
   Zap,
