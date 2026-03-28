@@ -2,6 +2,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowRight, CheckCircle2, XCircle, Zap, Shield, Cpu } from 'lucide-react';
 export const metadata: Metadata = {
+  alternates: { canonical: '/comparisons/etm-vs-traditional' },
+  openGraph: {
+    title: 'Triple Output DC Power Supply',
+    url: '/comparisons/etm-vs-traditional',
+  },
     title: 'Modern vs Traditional Triple Output Power Supply Brands | eTM vs Legacy',
     description: 'Compare modern programmable triple output DC power supplies against traditional legacy brands. See why engineers are switching from old-school analog-only units to modern, SCPI-ready eTM series supplies.',
 };

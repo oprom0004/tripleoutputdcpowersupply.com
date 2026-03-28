@@ -25,9 +25,6 @@ export const metadata: Metadata = {
     "triple output power supply",
     "SCPI power supply",
   ],
-  alternates: {
-    canonical: BASE_URL,
-  },
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon.ico",
@@ -35,14 +32,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: BASE_URL,
     siteName: "Triple Output DC Power Supply",
     title: "Triple Output DC Power Supply | Precision Lab Instruments",
     description:
       "Precision power solutions for modern electronics labs, R&D professionals, and automated testing environments.",
     images: [
       {
-        url: `${BASE_URL}/og-image.png`,
+        url: "/og-image.png",
         width: 1200,
         height: 630,
         alt: "Triple Output DC Power Supply — eTM Series",
@@ -54,7 +50,7 @@ export const metadata: Metadata = {
     title: "Triple Output DC Power Supply | Precision Lab Instruments",
     description:
       "Precision power solutions for modern electronics labs, R&D professionals, and automated testing environments.",
-    images: [`${BASE_URL}/og-image.png`],
+    images: ["/og-image.png"],
   },
   robots: {
     index: true,

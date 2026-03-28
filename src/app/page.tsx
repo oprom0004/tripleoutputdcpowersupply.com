@@ -1,7 +1,12 @@
 import React from 'react';
 import Image from 'next/image';
 import type { Metadata } from 'next';
-export const metadata: Metadata = { title: 'Programmable Triple Output DC Bench Power Supply | Low Noise & High Precision' };
+export const metadata: Metadata = {
+  alternates: { canonical: '/' },
+  openGraph: {
+    title: 'Triple Output DC Power Supply',
+    url: '/',
+  }, title: 'Programmable Triple Output DC Bench Power Supply', alternates: { canonical: '/' }, openGraph: { url: '/' } };
 import {
   Activity,
   Zap,

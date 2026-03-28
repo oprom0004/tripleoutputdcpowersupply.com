@@ -1,7 +1,12 @@
 import type { Metadata } from 'next';
 import { TermsOfService } from '@/components/pages/TermsOfService';
 export const metadata: Metadata = {
-  title: 'Terms of Service | Triple Output DC Power Supply',
+  alternates: { canonical: '/terms-of-service' },
+  openGraph: {
+    title: 'Triple Output DC Power Supply',
+    url: '/terms-of-service',
+  },
+  title: 'Terms of Service',
   // description: 'Individual description here...',
 };
 export default function Page() {
