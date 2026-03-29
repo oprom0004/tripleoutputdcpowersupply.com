@@ -1,5 +1,5 @@
-﻿import type { Metadata } from 'next';
-import CategoryPage from '@/components/sections/CategoryPage';
+import type { Metadata } from 'next';
+import EtmSeries from '@/components/pages/EtmSeries';
 
 export const metadata: Metadata = {
   title: 'Top Picks: High-Performance Triple Output DC Power Supplies',
@@ -11,5 +11,5 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-  return <CategoryPage />;
+  return <EtmSeries />;
 }
